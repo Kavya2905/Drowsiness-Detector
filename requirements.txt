@@ -2,4 +2,5 @@ numpy>=1.19.5
 scipy>=1.5.4
 dlib>=19.8.1
 opencv-python==4.5.1.48
+psycopg2-binary==2.7.4
 streamlit
